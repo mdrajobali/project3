@@ -1,0 +1,231 @@
+
+
+*{
+    margin: 0;
+
+    padding: 0;
+}
+.section1{
+
+    
+    display: flex;
+    justify-content: space-around;
+
+    background: rgba(229, 84, 115, 0.10);
+    align-items: center;
+
+ 
+}
+.leftsection{
+    width: 50%;
+
+}
+
+.flower{
+
+    height: 200px;
+    width: 150px;
+
+
+    
+}
+.rightsection{
+    margin-top: 30px;
+}
+.primary{
+    color: white;
+    padding: 10px;
+    background: #E55473;
+    border: none;
+    margin-top: 10px;
+
+}
+.sectiion2one{
+    text-align: center;
+    box-sizing: border-box;
+
+}
+.imgtwo{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    box-sizing: border-box;
+ 
+    margin-top: 20px;
+}
+
+.img2{
+    height: 150px;
+    width: 150px;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+
+   
+}
+.text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#img1{
+    background-color: #ec8ea3;
+}
+#img2{
+    background-color: #96d1ec;
+    margin-bottom: 10px;
+  
+}
+#img3{
+    background-color: #eef2f3;
+}
+.imgthree{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(39, 39, 39, 0.05);
+    margin-top: 20px;
+    padding: 30px;
+    margin-left: -100px;
+  
+
+
+}    
+.section3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    box-sizing: border-box;
+    background: rgba(39, 39, 39, 0.05);
+
+
+    width: 100%;
+    padding: 20px;
+ 
+    margin-top: 20px;
+
+}
+.three{
+    margin-left: -50px;
+}
+.four{
+    margin-left: -20px;
+}
+.five{
+    margin-left: -5px;
+}
+.textsix{
+    text-decoration: underline;
+}
+
+.img4{
+   
+    margin-right: 100px;
+
+}
+
+
+.section4{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    background: rgba(229, 84, 115, 0.05);
+    padding: 20px 0px 20px 0px ;
+    gap: 80px;
+
+}
+.image7{
+    height: 100px;
+    width: 100px;
+}
+#off{
+    color: red;
+    
+}
+#sign{
+    margin-left: 100px;
+}
+.its{
+    margin-left: -20px;
+}
+#no{
+    margin-left: 80px;
+}
+#textt{
+    margin-left: 15px;
+}
+.book{
+    height: 100px;
+    width: 100px;
+}
+.anotherpart{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    gap: 30px;
+    padding: 20px;
+}
+.onepart{
+
+    text-align: center;
+}
+.section6{
+
+    background-image: url("Flower Asset/Rectangle 9.png");
+    background-repeat: no-repeat;
+    height: 200px;
+  
+}
+
+.emali1{
+    text-align: center;
+    margin-left: 200px;
+    padding: 10px;
+    margin-top: -50px;
+    width: 100px;
+
+}
+
+.mousee{
+    text-align: center;
+    margin-top: 60px;
+}
+.calc{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+
+}
+.footerr{
+    justify-content: center;
+    text-align: center;
+    background-color: black;
+    height: 200px;
+    width: 100%;
+}
+.alo{
+     color: #E55473;
+     font-family: loto;
+    
+}
+.footerr{
+    color: white;
+    position: relative;
+    height: 200px;
+    margin-bottom: 30px;
+    margin-top: 20px;
+
+}
+.pen{
+  
+    position: absolute;
+    margin-top: 50px;
+
+    justify-content: center;
+    align-items: center;
+    margin-left: 150px;
+
+   
+}
